@@ -1,0 +1,636 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cam",
+				"campgrounds"
+			],
+			[
+				"ca",
+				"campgrounds"
+			],
+			[
+				"re",
+				"rd\tres.redirect"
+			],
+			[
+				"camp",
+				"campgrounds"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"comm",
+				"commentRoutes"
+			],
+			[
+				"index",
+				"indexRoutes"
+			],
+			[
+				"is",
+				"isLoggedIn"
+			],
+			[
+				"res",
+				"rd\tres.redirect"
+			],
+			[
+				"pass",
+				"passport"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"Use",
+				"userSchema"
+			],
+			[
+				"user",
+				"userSchema"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"car",
+				"card-text"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"c",
+				"campground"
+			],
+			[
+				"new",
+				"newUser"
+			],
+			[
+				"method",
+				"methodOverride"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"ap",
+				"aput\tapp.put"
+			],
+			[
+				"fo",
+				"foundBlog"
+			],
+			[
+				"blo",
+				"blog"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"bl",
+				"blogSchema"
+			],
+			[
+				"mo",
+				"mongoose"
+			],
+			[
+				"CAM",
+				"campground"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"ren",
+				"rr\tres.render"
+			],
+			[
+				"app",
+				"aget\tapp.get"
+			],
+			[
+				"s",
+				"subredditName"
+			],
+			[
+				"te",
+				"text-align-last\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"eas",
+				"easy_btn"
+			],
+			[
+				"hard",
+				"hard_btn"
+			],
+			[
+				"t",
+				"textContent"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"q",
+				"querySelectorAll"
+			],
+			[
+				"har",
+				"hard_btn"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"ge",
+				"generateRandomColors6"
+			],
+			[
+				"goal",
+				"goalColor"
+			],
+			[
+				"f",
+				"floor"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"col",
+				"col-sm-12"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"bo",
+				"bootstrap"
+			],
+			[
+				"navbar",
+				"navbar-nav"
+			],
+			[
+				"btn",
+				"btn-success"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"border-co",
+				"border-color\tproperty"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"m",
+				"min_index"
+			],
+			[
+				"max",
+				"max_element"
+			],
+			[
+				"su",
+				"subarrays"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"o",
+				"one_sum"
+			],
+			[
+				"fin",
+				"findSubarraySum"
+			],
+			[
+				"pr",
+				"prime_factor"
+			],
+			[
+				"pri",
+				"prime"
+			],
+			[
+				"d",
+				"dual"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"cou",
+				"count"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Ins",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 164.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v7/models/campground.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v7/seeds.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v7/routes/comments.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v7/views/campgrounds/show.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v7/routes/campgrounds.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v7/app.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v6/seeds.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v6/views/comments/new.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v6/models/user.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v6/routes/comments.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v6/views/campgrounds/show.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v6/models/comment.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v6/app.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v5/models/user.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v5/views/register.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v5/views/login.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v5/views/partials/header.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v5/views/landing.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v5/routes/campgrounds.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v5/app.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v5/routes/index.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v5/routes/comments.js",
+		"/home/hammad/Hammad/WebDev/13.Authentication/AuthDemo/views/secret.ejs",
+		"/home/hammad/Hammad/WebDev/13.Authentication/AuthDemo/views/home.ejs",
+		"/home/hammad/Hammad/WebDev/13.Authentication/AuthDemo/models/user.js",
+		"/home/hammad/Hammad/WebDev/13.Authentication/AuthDemo/views/register.ejs",
+		"/home/hammad/Hammad/WebDev/13.Authentication/AuthDemo/views/login.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v4/app.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v4/seeds.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v4/views/comments/new.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v4/views/campgrounds/campgrounds.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v4/views/campgrounds/new.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v4/views/campgrounds/show.ejs",
+		"/home/hammad/Hammad/WebDev/13.Authentication/AuthDemo/app.js",
+		"/home/hammad/Hammad/WebDev/13.Authentication/AuthDemo/package.json",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/data/data.txt",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v3/models/comment.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v3/models/campground.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v3/app.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v3/views/show.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v3/seeds.js",
+		"/home/hammad/Hammad/WebDev/12.Data_Associations/references.js",
+		"/home/hammad/Hammad/WebDev/12.Data_Associations/embed.js",
+		"/home/hammad/Hammad/WebDev/11.Blog_App/views/index.ejs",
+		"/home/hammad/Hammad/WebDev/11.Blog_App/views/partials/footer.ejs",
+		"/home/hammad/Hammad/WebDev/11.Blog_App/public/stylesheets/app.css",
+		"/home/hammad/Hammad/WebDev/11.Blog_App/views/partials/header.ejs",
+		"/home/hammad/Hammad/WebDev/11.Blog_App/views/new.ejs",
+		"/home/hammad/Hammad/WebDev/11.Blog_App/views/show.ejs",
+		"/home/hammad/Hammad/WebDev/11.Blog_App/views/edit.ejs",
+		"/home/hammad/Hammad/WebDev/11.Blog_App/app.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v2/app.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v1/views/campgrounds.ejs",
+		"/home/hammad/Hammad/WebDev/11.Blog_App/views/index.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v2/views/partials/header.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v2/views/new.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v2/views/landing.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v2/views/campgrounds.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/v2/views/show.ejs",
+		"/home/hammad/Hammad/WebDev/11.Databases/app.js",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/views/landing.ejs",
+		"/home/hammad/Hammad/WebDev/3. Bootstrap/purrfect_match.html",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/views/campgrounds.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/views/partials/footer.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/views/partials/header.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/views/new.ejs",
+		"/home/hammad/Hammad/WebDev/10.YelpCamp/app.js",
+		"/home/hammad/Hammad/WebDev/2.CSS/6.html",
+		"/home/hammad/Hammad/WebDev/9.APIs/movie_search_app/views/result.ejs",
+		"/home/hammad/Hammad/WebDev/9.APIs/movie_search_app/views/home.ejs",
+		"/home/hammad/Hammad/WebDev/9.APIs/movie_search_app/app.js",
+		"/home/hammad/Hammad/WebDev/8.Backend/postRequestDemo/app.js",
+		"/home/hammad/Hammad/WebDev/8.Backend/postRequestDemo/views/friends.ejs",
+		"/home/hammad/Hammad/WebDev/8.Backend/postRequestDemo/views/home.ejs",
+		"/home/hammad/Hammad/WebDev/9.APIs/first_request.js",
+		"/home/hammad/Hammad/WebDev/8.Backend/ExpressApp3/views/post.ejs",
+		"/home/hammad/Hammad/WebDev/8.Backend/ExpressApp3/views/partials/footer.ejs",
+		"/home/hammad/Hammad/WebDev/8.Backend/ExpressApp3/app.js",
+		"/home/hammad/Hammad/WebDev/8.Backend/ExpressApp3/views/partials/header.ejs",
+		"/home/hammad/Hammad/WebDev/8.Backend/ExpressApp3/views/home.ejs",
+		"/home/hammad/Hammad/WebDev/8.Backend/ExpressApp3/views/love.ejs",
+		"/home/hammad/Hammad/WebDev/8.Backend/ExpressApp3/public/app.css",
+		"/home/hammad/Hammad/WebDev/8.Backend/ExpressApp3/views/footer.ejs",
+		"/home/hammad/Hammad/WebDev/8.Backend/ExpressApp3/views/header.ejs",
+		"/home/hammad/Hammad/WebDev/8.Backend/ExpressApp2/app.js",
+		"/home/hammad/Hammad/WebDev/8.Backend/ExpressApp/app.js",
+		"/home/hammad/Hammad/WebDev/8.NodeJS/myShop/listProducts.js",
+		"/home/hammad/Hammad/WebDev/8.NodeJS/grader.js",
+		"/home/hammad/Hammad/WebDev/8.NodeJS/echo.js",
+		"/home/hammad/Hammad/WebDev/8.NodeJS/hello.js",
+		"/home/hammad/Hammad/WebDev/7.Todo_Project/assets/js/todos.js",
+		"/home/hammad/Hammad/WebDev/7.Todo_Project/assets/css/todos.css",
+		"/home/hammad/Hammad/WebDev/7.Todo_Project/index.html",
+		"/home/hammad/Hammad/WebDev/commands/stop_server.txt",
+		"/home/hammad/Hammad/backup/[FreeTutorials.Us] Udemy - The Web Developer Bootcamp/18. Todo List Projects/12.2 Todo-List-Project-FA5-edition.zip/Todo-List-Project-FA5-edition/assets/css/todos.css",
+		"/home/hammad/Hammad/WebDev/6.Color_Game_Project/project.html",
+		"/home/hammad/Hammad/WebDev/6.Color_Game_Project/project.js",
+		"/home/hammad/Hammad/WebDev/7.jQuery/1.html",
+		"/home/hammad/Hammad/WebDev/6.Color_Game_Project/project.css",
+		"/home/hammad/Hammad/backup/Programs/GFG/ARRAYS/merge_sort.cpp",
+		"/home/hammad/Hammad/backup/Programs/codechef/corus.cpp",
+		"/home/hammad/Hammad/backup/Programs/codechef/covid19.cpp",
+		"/home/hammad/Hammad/WebDev/3. Bootstrap/grid.html",
+		"/home/hammad/Hammad/WebDev/5.DOM/2.html",
+		"/home/hammad/Hammad/WebDev/5.DOM/2.js",
+		"/home/hammad/Hammad/WebDev/5.DOM/1.js",
+		"/home/hammad/Hammad/WebDev/5.DOM/1.html",
+		"/home/hammad/Hammad/WebDev/4.JS/5.html",
+		"/home/hammad/Hammad/WebDev/4.JS/4.js",
+		"/home/hammad/Hammad/WebDev/4.JS/4.html",
+		"/home/hammad/Hammad/WebDev/4.JS/3.js",
+		"/home/hammad/Hammad/WebDev/4.JS/3.html",
+		"/home/hammad/Hammad/WebDev/4.JS/2.js",
+		"/home/hammad/Hammad/WebDev/4.JS/2.html",
+		"/home/hammad/Hammad/WebDev/4.JS/2.css",
+		"/home/hammad/Hammad/WebDev/4.JS/1.js",
+		"/home/hammad/Hammad/WebDev/4.JS/1.html",
+		"/home/hammad/Hammad/WebDev/3. Bootstrap/purrfect_match.css",
+		"/home/hammad/.cache/.fr-tYFSCO/PurrfectMatch/app.css",
+		"/home/hammad/purrfect_match.html",
+		"/home/hammad/Hammad/WebDev/3. Bootstrap/gallery.html",
+		"/home/hammad/Hammad/WebDev/3. Bootstrap/gallery.css",
+		"/home/hammad/Hammad/WebDev/3. Bootstrap/match.html",
+		"/home/hammad/Hammad/WebDev/3. Bootstrap/purrfect",
+		"/home/hammad/Hammad/WebDev/3. Bootstrap/navbars.html",
+		"/home/hammad/Hammad/WebDev/3. Bootstrap/1.html",
+		"/home/hammad/.cache/.fr-KlboII/04_Navbars/navbars.html",
+		"/home/hammad/Hammad/WebDev/CSS/8.css"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "landing.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

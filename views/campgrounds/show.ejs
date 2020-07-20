@@ -1,0 +1,60 @@
+<%- include('../partials/header.ejs') %>
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-3" style="margin-top: 30px;">
+			<h3>YelpCamp</h3>
+			<ul class="list-group">
+				<li class="list-group-item active">Info 1</li>
+				<li class="list-group-item">Info 2</li>
+				<li class="list-group-item">Info 3</li>
+			</ul>
+		</div>
+
+		<div class="col-md-9" style="margin-top: 30px;">
+
+				<div class="card" style="width: 100%;">
+				  <img src="<%= campground.image %>" class="card-img-top" alt="...">
+				  <div class="card-body">
+				    <h5 class="card-title"><a href="#"><%= campground.title %></a><span class="float-right">$9.00/night</span></h5>
+				    <p class="card-text"><%= campground.desc %></p>
+				    <p><em>Submitted by: <%= campground.author.username %></em></p>
+					<% if(currentUser && currentUser._id.equals(campground.author.id)){ %>
+
+					    <a class="btn btn-warning" href="/campgrounds/<%= campground._id %>/edit">Edit</a>
+					    <form id="delete-form" action="/campgrounds/<%= campground._id %>?_method=DELETE" method = "POST">
+					    	<button class="btn btn-danger">Delete</button>
+					    </form>
+
+					<% } %>
+				  </div>
+				</div>
+
+
+				<div class="card" style="width: 100%; margin-top: 50px; margin-bottom:50px; background: #ebebf0;">
+				  <div class="card-body">
+						<p><a class="btn btn-success float-right" href="/campgrounds/<%= campground._id %>/comments/new">Add New Comment</a></p>
+						<div style="margin-top: 60px;">
+							<% campground.comments.forEach(function(comment){ %>
+								<p style="margin-bottom: 0"><strong><%= comment.author.username %></strong><span class="float-right">10 days ago</span></p>
+								<p id="bottom-stick"><%= comment.text %></p>
+								<% if(currentUser && currentUser._id.equals(comment.author.id)){ %>
+									<div id="bottom-space">
+										<a class="btn btn-warning btn-sm" href="/campgrounds/<%= campground._id %>/comments/<%= comment._id %>/edit">Edit</a>
+										<form id="delete-form" action="/campgrounds/<%= campground._id %>/comments/<%= comment._id %>?_method=DELETE" method="POST">
+												<button class="btn btn-danger btn-sm">Delete</button>
+										</form>
+									</div>
+								<% } %>
+							<% }); %>
+						</div>
+				  </div>
+				</div>
+
+
+				
+		</div>
+	</div>
+</div>
+
+<%- include('../partials/footer.ejs') %>

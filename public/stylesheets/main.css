@@ -1,0 +1,12 @@
+.container {
+	margin-top: 15px;
+}
+#delete-form {
+	display: inline;
+}
+#bottom-stick {
+	margin-bottom: 0;
+}
+#bottom-space {
+	margin-bottom: 1.5em;
+}
