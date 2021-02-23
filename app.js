@@ -20,8 +20,7 @@ app.set("view engine", "ejs");
 app.use(express.static(__dirname + "/public"))
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(flash());
-mongoose.connect("mongodb://hammad52:<password>@cluster0-shard-00-00.xxio3.mongodb.net:27017,cluster0-shard-00-01.xxio3.mongodb.net:27017,cluster0-shard-00-02.xxio3.mongodb.net:27017/myFirstDatabase?ssl=true&replicaSet=atlas-l3zaqh-shard-0&authSource=admin&retryWrites=true&w=majority");
-
+mongoose.connect("mongodb+srv://hammad52:zainab123@cluster0.xxio3.mongodb.net/yelpcamp?retryWrites=true&w=majority");
 
 //PASSPORT CONFIGURATION
 app.use(require("express-session")({
