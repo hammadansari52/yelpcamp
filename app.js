@@ -20,7 +20,7 @@ app.set("view engine", "ejs");
 app.use(express.static(__dirname + "/public"))
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(flash());
-mongoose.connect("mongodb+srv://hammad52:zainab123@cluster0.xxio3.mongodb.net/yelpcamp?retryWrites=true&w=majority");
+mongoose.connect("mongodb+srv://hammad52:saif123@cluster0.xxio3.mongodb.net/yelpcamp?retryWrites=true&w=majority");
 
 //PASSPORT CONFIGURATION
 app.use(require("express-session")({
